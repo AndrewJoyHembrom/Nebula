@@ -3,7 +3,7 @@ import { twMerge } from 'tailwind-merge'
 
 export type ActionButtonProps = ComponentProps<'button'>
 
-export const ActionButton = ({ children, className, ...props }: ActionButtonProps) => {
+export const ActionButton = ({ className, children, ...props }: ActionButtonProps) => {
   return (
     <button
       className={twMerge(
