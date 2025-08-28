@@ -1,6 +1,6 @@
 # nebula
 
-An Electron application with React and TypeScript
+A Note taking desktop app with out-of-the-box markdown support. Built with Electron and React.
 
 ## Recommended IDE Setup
 
